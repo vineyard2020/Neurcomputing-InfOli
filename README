@@ -6,6 +6,8 @@ specifically designed with the Intel Xeon Phi (KNC)
 platform in mind, but is expected to work on any
 x86-based architecture.
 
+It was developed under the [VINEYARD H2020](http://www.vineyard-h2020.eu) project.
+
 ~~~~~~~~~
 
 Structure:
